@@ -1,0 +1,22 @@
+{
+  "name": "kdniao",
+  "version": "1.0.0",
+  "description": "快递鸟 javascript SDK",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdy23216340/KDNiao.git"
+  },
+  "author": "eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdy23216340/KDNiao/issues"
+  },
+  "homepage": "https://github.com/zdy23216340/KDNiao#readme"
+}
